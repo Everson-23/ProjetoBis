@@ -1,0 +1,117 @@
+.cftv{
+  
+  position: absolute;
+  font-family: sans-serif;
+  font-size: 22px;
+  color:white;
+  top: 138px;
+  margin-left: 539px;
+  margin-right: 0px;
+  text-align: justify-all;
+  z-index:1;
+  white-space: pre;
+  line-height: 40px;
+  }
+
+  #dois{
+    position: absolute;
+    color:white;
+    top: 232px;
+    margin-left: 120px;
+  }
+
+   #tres{
+    position: absolute;
+    color:black;
+    top: 385px;
+    margin-left: 10px;
+    line-height: 30px;
+    
+  }
+ 
+  #quatro{
+    position: absolute;
+    color:black;
+    top: 335px;
+    margin-left: -200px;
+    line-height: 25px;
+    font-size:18px;
+    
+  }
+    #cinco{
+      position: absolute;
+      color:black;
+      top: 205px;
+      margin-left: -255px;
+      line-height: 40px;
+      font-size:23px;
+      
+    }
+    #seis{
+      position: absolute;
+      color:black;
+      top: 50px;
+      margin-left: -170px;
+      line-height: 30px; 
+    }
+
+  a{
+  color:white;
+  }
+  a:hover{
+  text-decoration: underline;
+  color:black;
+  }
+  .btn-circle.btn-xl {
+    position:absolute;
+    width:70px;
+    height:70px;
+    padding: 10px 16px;
+    font-size: 24px;
+    line-height: 1.33;
+    border-radius: 35px;
+    z-index:2;
+    right:462px;
+    margin-top:-13px;
+    background-color:#3b515e;
+  }
+  #num{
+    font-size:33px;
+    font-family: impact;
+    color: white;
+
+  }
+  #num a:hover{
+color: black;
+  }
+  #but{
+    position:absolute;
+    margin-top:246px;
+    right:356px;
+    background-color:#d93171;
+  }
+  #but3{
+    position:absolute;
+    margin-top:465px;
+    right:540px;
+    background-color:#e87817;
+  }
+
+  #but4{
+    position:absolute;
+    margin-top:423px;
+    left:455px;
+    background-color:#fecb00;
+  }
+  #but5{
+    position:absolute;
+    margin-top:165px;
+    left:347px;
+    background-color:#3bc173;
+  }
+  #but6{
+    position:absolute;
+    margin-top:-56px;
+    left:530px;
+    background-color:#3c89be;
+  }
